@@ -1,0 +1,10 @@
+### MAVEN ###
+target/
+dependency-reduced-pom.xml
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
